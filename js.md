@@ -1,2 +1,2 @@
 
-1. [test](www.baidu.com)
+1. [test](http://www.baidu.com)
